@@ -18,3 +18,11 @@ Key(s) | Command
 <kbd>k</kbd> | stop playing stream
 <kbd>q</kbd> | quit
 <kbd>f</kbd> | toggle favourite
+
+> Installing
+- Install required libraries: 'pip3 install requests xdg lxml setuptools'
+- Download or git clone this repository
+- Run 'sudo python3 setup.py install' in download directory.
+
+> Arch Users can install it from AUR
+- curseradio-git
